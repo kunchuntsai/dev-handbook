@@ -11,7 +11,6 @@
 ├── code-repository-management/
 ├── issue-process-guide/
 ├── individual-contributor-dev-guide/
-├── people-management/
 └── learning-resource/
 ```
 

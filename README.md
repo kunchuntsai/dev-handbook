@@ -47,17 +47,6 @@ A practical handbook on how a software team plans, builds, reviews, ships and gr
 | [Presentation Skills - 簡報課](individual-contributor-dev-guide/presentation-skills.md) | Course notes: strategy, design, delivery (中英) |
 | [Software Engineer Expectations](individual-contributor-dev-guide/software-engineer-expectations.md) | Five dimensions; what leadership means for seniors |
 
-### 🦷 [People Management](people-management/README.md)
-
-| Article | Summary |
-| --- | --- |
-| [Team Management: Three Levels](people-management/team-management-three-levels.md) | Orders → motivate → inspire; connecting process to purpose |
-| [1-on-1 Structure](people-management/1-on-1-structure.md) | Monthly 1-on-1 agenda and process-adoption playbook |
-| [Management Skills](people-management/management-skills.md) | CTO vs. VP of Engineering responsibilities (中英) |
-| [Communication Skills](people-management/communication-skills.md) | PREP, HERO, STAR, CARI, What-Why-How |
-| [Managing Up](people-management/managing-up.md) | Treat your manager as your highest-leverage partner |
-| [Management skills -1](people-management/management-skills-1.md) | A good manager, CCC, manage your boss, I-messages, negotiation |
-
 ### ✍️ [Learning Resource](learning-resource/README.md)
 
 | Article | Summary |

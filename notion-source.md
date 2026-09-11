@@ -33,13 +33,6 @@ Root page: <https://app.notion.com/p/18282048577b8066ac9bc80fee8d070d>
 | `individual-contributor-dev-guide/guide-to-software-development-estimation.md` | <https://app.notion.com/p/1c482048577b807eac03d2e2493e1303> |
 | `individual-contributor-dev-guide/presentation-skills.md` | <https://app.notion.com/p/1ec82048577b80ab93d2cb04de9aedbf> |
 | `individual-contributor-dev-guide/software-engineer-expectations.md` | <https://app.notion.com/p/18282048577b808c9595eed49d2b6dfb> |
-| `people-management/README.md` | <https://app.notion.com/p/18282048577b80f0b260f8099522b71e> |
-| `people-management/team-management-three-levels.md` | <https://app.notion.com/p/1b882048577b80258f71fa14a4397130> |
-| `people-management/1-on-1-structure.md` | <https://app.notion.com/p/13f82048577b806faadadc60f95d0f99> |
-| `people-management/management-skills.md` | <https://app.notion.com/p/1ec82048577b80e78f59cee6f9bc06e0> |
-| `people-management/communication-skills.md` | <https://app.notion.com/p/20082048577b80059a8cd56121b913f3> (STAR section inlined from <https://app.notion.com/p/1ec82048577b804eb070fc2a7580556c>) |
-| `people-management/managing-up.md` | <https://app.notion.com/p/20082048577b806e99f6dc60c0dce22c> |
-| `people-management/management-skills-1.md` | <https://app.notion.com/p/30282048577b80ceb421d94d9dd6f4f2> |
 | `learning-resource/README.md` | <https://app.notion.com/p/18282048577b8025aca2ca4da8540eb8> |
 | `learning-resource/the-clean-architecture.md` | <https://app.notion.com/p/18282048577b8010b1a2c275f0252720> |
 | `learning-resource/the-clean-architecture-materials.md` | <https://app.notion.com/p/1f082048577b805bae29e9b6f19c72fc> |
