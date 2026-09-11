@@ -45,12 +45,12 @@ A practical handbook on how a software team plans, builds, reviews, ships and gr
 | [Paper Presentation Structure](individual-contributor-dev-guide/paper-presentation-structure.md) | Why / Paper / Experiments / Integration & Analysis |
 | [Guide to Software Development Estimation](individual-contributor-dev-guide/guide-to-software-development-estimation.md) | V-model time distribution, estimation process, pitfalls |
 | [Presentation Skills - 簡報課](individual-contributor-dev-guide/presentation-skills.md) | Course notes: strategy, design, delivery (中英) |
+| [Software Engineer Expectations](individual-contributor-dev-guide/software-engineer-expectations.md) | Five dimensions; what leadership means for seniors |
 
 ### 🦷 [People Management](people-management/README.md)
 
 | Article | Summary |
 | --- | --- |
-| [Software Engineer Expectations](people-management/software-engineer-expectations.md) | Five dimensions; what leadership means for seniors |
 | [Team Management: Three Levels](people-management/team-management-three-levels.md) | Orders → motivate → inspire; connecting process to purpose |
 | [1-on-1 Structure](people-management/1-on-1-structure.md) | Monthly 1-on-1 agenda and process-adoption playbook |
 | [Management Skills](people-management/management-skills.md) | CTO vs. VP of Engineering responsibilities (中英) |
