@@ -15,3 +15,4 @@ Part of the [Software Development Handbook](../README.md).
 | [Paper Presentation Structure](paper-presentation-structure.md) | Why / Paper / Experiments / Integration & Analysis |
 | [Guide to Software Development Estimation](guide-to-software-development-estimation.md) | V-model time distribution, estimation process, pitfalls |
 | [Presentation Skills - 簡報課](presentation-skills.md) | Course notes: strategy, design, delivery (中英) |
+| [Software Engineer Expectations](software-engineer-expectations.md) | Five dimensions; what leadership means for seniors |

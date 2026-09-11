@@ -32,8 +32,8 @@ Root page: <https://app.notion.com/p/18282048577b8066ac9bc80fee8d070d>
 | `individual-contributor-dev-guide/paper-presentation-structure.md` | <https://app.notion.com/p/18282048577b80e8b8d5c90603a58de7> |
 | `individual-contributor-dev-guide/guide-to-software-development-estimation.md` | <https://app.notion.com/p/1c482048577b807eac03d2e2493e1303> |
 | `individual-contributor-dev-guide/presentation-skills.md` | <https://app.notion.com/p/1ec82048577b80ab93d2cb04de9aedbf> |
+| `individual-contributor-dev-guide/software-engineer-expectations.md` | <https://app.notion.com/p/18282048577b808c9595eed49d2b6dfb> |
 | `people-management/README.md` | <https://app.notion.com/p/18282048577b80f0b260f8099522b71e> |
-| `people-management/software-engineer-expectations.md` | <https://app.notion.com/p/18282048577b808c9595eed49d2b6dfb> |
 | `people-management/team-management-three-levels.md` | <https://app.notion.com/p/1b882048577b80258f71fa14a4397130> |
 | `people-management/1-on-1-structure.md` | <https://app.notion.com/p/13f82048577b806faadadc60f95d0f99> |
 | `people-management/management-skills.md` | <https://app.notion.com/p/1ec82048577b80e78f59cee6f9bc06e0> |
